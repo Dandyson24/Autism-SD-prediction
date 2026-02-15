@@ -211,8 +211,8 @@ API-based risk scoring simulation
 Andrew Nwachimere-eze Okebugwu 
 Public Health Physician | PhD | Health Data Scientist
 
-GitHub: [Insert Link]
+GitHub: [(https://github.com/Dandyson24/Autism-SD-prediction)]
 
-LinkedIn: [Insert Link]
+LinkedIn: [[Insert Link](https://www.linkedin.com/in/andrew-nwachimereze-okebugwu-mbbs-mph-phd-6b429617)]
 
-Portfolio: [Insert Link]
+Portfolio: [file:///C:/Users/Andrew%20Okebugwu.LPT14-AOKEBUGWU/Documents/Python%20stuffs/AAAA%202026%20ML%20PROJECTS/PORTFOLIO/PortWeb/index.html#]
