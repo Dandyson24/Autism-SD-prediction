@@ -113,7 +113,7 @@ Confusion Matrix
 
 **Figure 4: Confusion Matrix (Test Set)**
 
-![Confusion Matrix](figures/confusion_matrix.png)
+![Confusion Matrix](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Confusion_matrix_.png)
 
 #### ROC Curve
 
@@ -121,19 +121,6 @@ Confusion Matrix
 
 ![ROC Curve](figures/roc_curve.png)
 
-## Threshold Optimization
-
-Instead of using the default 0.5 probability cutoff:
-
-ROC curve analyzed
-
-Youden’s Index used to determine optimal threshold
-
-Improved sensitivity-specificity balance
-
- **Figure 6: Threshold Optimization Plot**
-
-![Threshold Optimization](figures/threshold_optimization.png)
 
 ####  Feature Importance
 
