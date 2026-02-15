@@ -53,7 +53,7 @@ Behavioral scores show moderate inter-feature correlation.
 
 **Figure 2: Correlation Heatmap**
 
-![Correlation Heatmap](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Correlation_heatmap.png
+![Correlation Heatmap](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Correlation_heatmap.png)
 
 ⚙️ Methodology
 ### Data Preprocessing
