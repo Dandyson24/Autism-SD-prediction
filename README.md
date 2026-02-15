@@ -45,7 +45,7 @@ The dataset showed imbalance between ASD and non-ASD cases.
 
 **Figure 1: Class Distribution Before SMOTE**
 
-![Class Distribution before SMOTE]([figures/class_distribution.png](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Class%20distribution%20before%20SMOTE.png?raw=true))
+![Class Distribution before SMOTE](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Class%20distribution%20before%20SMOTE.png?raw=true)
 
 Feature Correlation Heatmap
 
