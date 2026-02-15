@@ -72,7 +72,7 @@ Applied SMOTE only on training data to prevent data leakage.
 
 **Figure 3: Class Distribution After SMOTE**
 
-![SMOTE Distribution](figures/smote_distribution.png)
+![SMOTE Distribution]((https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Class%20distribution%20after%20SMOTE.png)))
 
 ####  Model Development
 
