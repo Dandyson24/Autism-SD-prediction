@@ -119,7 +119,7 @@ Confusion Matrix
 
 **Figure 5: ROC Curve (Test Set)**
 
-![ROC Curve](figures/roc_curve.png)
+![ROC Curve](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/ROC_CURVE_.png)
 
 
 ####  Feature Importance
