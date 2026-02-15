@@ -136,7 +136,7 @@ A6_Score
 
  **Figure 7: Feature Importance Plot**
 
-![Feature Importance](figures/feature_importance.png)
+![Feature Importance](https://github.com/Dandyson24/Autism-SD-prediction/blob/main/Top_Features_by_Importance.png)
 
 #### Key Metrics (Final Model)
 Metric	Value
